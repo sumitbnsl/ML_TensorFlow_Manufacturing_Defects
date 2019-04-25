@@ -1,0 +1,2 @@
+# Manufacturing_Defects
+Manufacturing defects classification algorithm
