@@ -4,6 +4,7 @@ This repository contains Computer Vision model for classification of Manufacturi
 DATA SOURCE: JBM GROUP
 
 MOBILENET MODEL: http://download.tensorflow.org/models/mobilenet_v1_1.0_224_frozen.tgz
+
 SOURCE CODE AND APP PROJECT: GOOGLE CODELABS
 
 CONTENTS
