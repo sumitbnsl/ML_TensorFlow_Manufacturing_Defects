@@ -1,13 +1,13 @@
 # Manufacturing_Defects
 This repository contains Computer Vision model for classification of Manufacturing Defects. Model is retrained on Mobilenet model using tensorflow.
 
-DATA SOURCE: JBM GROUP
+Data Source: JBM GROUP
 
-MOBILENET MODEL: http://download.tensorflow.org/models/mobilenet_v1_1.0_224_frozen.tgz
+MobileNet Model: http://download.tensorflow.org/models/mobilenet_v1_1.0_224_frozen.tgz
 
-SOURCE CODE AND APP PROJECT: GOOGLE CODELABS
+Source Code and App Project: GOOGLE CODELABS
 
-CONTENTS
+Contents
 
 
 Android App- Android Studio Project
